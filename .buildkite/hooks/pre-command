@@ -1,0 +1,1 @@
+export PATH="/var/lib/buildkite-agent/.nvm/versions/node/v9.10.1/bin:$PATH"
