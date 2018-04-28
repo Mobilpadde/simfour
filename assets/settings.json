@@ -1,0 +1,9 @@
+{
+    "patience": [180, 240],
+    "month": 120,
+    "months": 12,
+    "speed": 0.5,
+    "wage": 60,
+    "price": [5, 60],
+    "multiplier": 3,
+}

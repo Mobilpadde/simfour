@@ -1,0 +1,13 @@
+{
+    "ground": "#b29175",
+    "bar": "#8ec5ac",
+    "factory": "#f1785b",
+    "grass": "#a0d626",
+    "hospital": "#eff1f0",
+    "mall": "#f0cd5b",
+    "pond": "#c9f4ff",
+    "road": "#808080",
+    "shack": "#a44b68",
+    "human": ["#f1edf2", "#ebceae", "#f3ccb3", "#bf9084", "#3f2d28"],
+    "sky": ["#90d5fe", "#1f1f1f"]
+}

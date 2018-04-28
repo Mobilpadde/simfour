@@ -1,0 +1,40 @@
+{
+  "name": "TheSimFour",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.pug",
+    "watch": "parcel watch index.pug",
+    "build": "parcel build index.pug"
+  },
+  "dependencies": {
+    "color": "^3.0.0",
+    "faker": "^4.1.0",
+    "neataptic": "^1.4.7",
+    "parcel-bundler": "^1.7.1",
+    "pathfinding": "^0.4.18",
+    "victor": "^1.1.0",
+    "xo": "^0.20.3"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "pug": "^2.0.3"
+  },
+  "xo": {
+    "envs": [
+      "browser"
+    ],
+    "space": 4,
+    "rules": {
+      "object-curly-spacing": 0,
+      "comma-dangle": 0,
+      "arrow-parens": 0,
+      "jsx-quotes": 0,
+      "no-return-assign": 0,
+      "max-params": 6,
+      "capitalized-comments": 0
+    }
+  }
+}
