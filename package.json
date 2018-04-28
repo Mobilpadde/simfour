@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel index.pug",
     "watch": "parcel watch index.pug",
-    "build": "parcel build index.pug --public-url=/"
+    "build": "parcel build index.pug --public-url=."
   },
   "dependencies": {
     "color": "^3.0.0",
